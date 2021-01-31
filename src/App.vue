@@ -17,6 +17,9 @@ export default {
   margin: 0;
   padding: 0;
 }
+.head{
+  margin:0
+}
 
 
 .Bar {
